@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-03 18:25:38,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-07-03 18:32:36,http://69.30.245.50/live/cctv1.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
@@ -18,9 +18,18 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
-海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️广东频道,#genre#
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
+
+⚽️体育频道,#genre#
+
+🏀港澳频道,#genre#
+
+🇹🇼台湾频道,#genre#
+
+🍿新闻频道,#genre#
+
+🎬综合频道,#genre#
