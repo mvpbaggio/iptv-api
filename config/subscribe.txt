@@ -3,15 +3,16 @@ https://iptv-org.github.io/iptv/index.language.m3u
 https://iptv-org.github.io/iptv/index.country.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/result.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u
-https://raw.githubusercontent.com/gaotianliuyun/gao/master/IPTV.m3u
-https://raw.githubusercontent.com/gaotianliuyun/gao/master/IPTV_list.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-https://raw.githubusercontent.com/SPX372928/IPTV/master/my_iptv.m3u
 https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-https://raw.githubusercontent.com/zbefksa/dsadsadsadsa/main/IPTV.m3u
+
+# https://raw.githubusercontent.com/suxuang/myIPTV/main/result.m3u
+# https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u
+# https://raw.githubusercontent.com/gaotianliuyun/gao/master/IPTV.m3u
+# https://raw.githubusercontent.com/gaotianliuyun/gao/master/IPTV_list.m3u
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# https://raw.githubusercontent.com/SPX372928/IPTV/master/my_iptv.m3u
+# https://raw.githubusercontent.com/zbefksa/dsadsadsadsa/main/IPTV.m3u
 
 [WHITELIST]
